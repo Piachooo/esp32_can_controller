@@ -1,0 +1,47 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:\\esp_idf",
+                "C:\\Espressif\frameworks\\esp-idf-v5.0.1",
+                "C:/esp_idf/esp-idf/components/freertos/FreeRTOS-Kernel-SMP/include",
+                "C:/esp_idf/tools/riscv32-esp-elf/esp-2022r1-11.2.0/riscv32-esp-elf/lib/gcc/riscv32-esp-elf/11.2.0/include",
+                "C:/esp_idf/tools/riscv32-esp-elf/esp-2022r1-11.2.0/riscv32-esp-elf/lib/gcc/riscv32-esp-elf/11.2.0/include",
+                "C:/esp_idf/tools/xtensa-esp32-elf/esp-2022r1-11.2.0/xtensa-esp32-elf/xtensa-esp32-elf/include",
+                "C:/esp_idf/esp-idf/components/freertos/esp_additions/include/freertos",
+                "C:/esp_idf/esp-idf/components/freertos/FreeRTOS-Kernel/portable/linux/include",
+                "C:/esp_idf/esp-idf/components/freertos/FreeRTOS-Kernel-SMP/portable/riscv/include/freertos",
+                "C:/esp_idf/esp-idf/components/esp_hw_support/include",
+                "C:/esp_idf/esp-idf/components/soc/esp32/include",
+                "C:/esp_idf/esp-idf/components/esp_common/include",
+                "C:/esp_idf/esp-idf/components/soc/esp32c2/include",
+                "C:/esp_idf/esp-idf/components/esp_system/include",
+                "C:/esp_idf/esp-idf/components/newlib/platform_include",
+                "C:/esp_idf/esp-idf/components/heap/include",
+                "C:/esp_idf/esp-idf/components/esp_rom/include",
+                "C:/esp_idf/esp-idf/components/driver/include",
+                "C:/esp_idf/esp-idf/components/esp_ringbuf/include",
+                "C:/esp_idf/esp-idf/components/hal/include",
+                "C:/Users/Jacek/Documents/Projekty ESP32/biblioteka_can/ESP32-Arduino-CAN-master/src",
+                "${workspaceFolder}/build/bootloader/config",
+                "C:/esp_idf/esp-idf/components/log/include",
+                "C:/esp_idf/esp-idf/components/esp_pm/include",
+                "C:/esp_idf/esp-idf/components/soc/include",
+                "C:/esp_idf/esp-idf/components/hal/esp32/include",
+                "C:/esp_idf/esp-idf/components/hal/platform_port/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.22000.0",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x64"
+        }
+    ],
+    "version": 4
+}
